@@ -6,7 +6,7 @@
 
 ### User Case Diagram
 
-![Alt text](https://github.dev/nickthelegend/SOFTWARE_ENGINEERING_LAB/tree/main/photos/userCase.png)
+![Alt text](https://github.com/nickthelegend/SOFTWARE_ENGINEERING_LAB/blob/main/photos/userCase.png)
 
 
 
